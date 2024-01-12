@@ -1,0 +1,12 @@
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.deps.json
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.pdb
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfoInputs.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\obj\Debug\net6.0\refint\PracticeProject.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.pdb
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\obj\Debug\net6.0\ref\PracticeProject.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\Day6\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.AssemblyReference.cache

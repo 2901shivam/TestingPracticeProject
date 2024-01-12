@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K9kPYUL1//YKAii0qfPLYssAhJ2d+mSThz+K6Nd9X7ZScJMak3nVmaUVZfzIlitdFBN5qYO5ND9IrwaICx1yDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shiva\\OneDrive\\Desktop\\mphasis-b2\\Phase3\\Day6\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
